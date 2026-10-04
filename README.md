@@ -2,7 +2,7 @@
 This is the Latest Version of the USDT Flasher software that supports both CEX and DEX wallets
 
 
-# FLASH USDT SOFTWARE SENDER 2025
+# FLASH USDT SOFTWARE SENDER 2026
 This software allows you to flash USDT 
 
 # [FLASH USDT SENDER](https://t.me/czarbit)
